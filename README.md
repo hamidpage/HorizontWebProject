@@ -1,1 +1,1 @@
-# HorizontWebProject
+# Horizont Web Project
